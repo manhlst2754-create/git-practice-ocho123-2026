@@ -16,3 +16,5 @@
 
 # Practice basic and advanced Git commands.
 
+Understand branching strategy
+
